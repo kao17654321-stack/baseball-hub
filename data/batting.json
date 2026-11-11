@@ -1,0 +1,52 @@
+[
+  {
+    "playerId": "aaron-judge",
+    "season": 2024,
+    "team": "NYY",
+    "HR": 58,
+    "AVG": 0.322,
+    "OBP": 0.458,
+    "SLG": 0.701,
+    "OPS": 1.159,
+    "source": "https://baseballsavant.mlb.com/savant-player/aaron-judge-592450"
+  },
+  {
+    "playerId": "aaron-judge",
+    "season": 2025,
+    "team": "NYY",
+    "HR": 53,
+    "AVG": 0.331,
+    "OBP": 0.457,
+    "SLG": 0.688,
+    "OPS": 1.145,
+    "source": "https://baseballsavant.mlb.com/savant-player/aaron-judge-592450"
+  },
+  {
+    "playerId": "shohei-ohtani",
+    "season": 2024,
+    "team": "LAD",
+    "G": 159,
+    "HR": 54,
+    "RBI": 130,
+    "SB": 59,
+    "AVG": 0.31,
+    "OBP": 0.39,
+    "SLG": 0.646,
+    "OPS": 1.036,
+    "source": "https://baseballsavant.mlb.com/savant-player/shohei-ohtani-660271"
+  },
+  {
+    "playerId": "shohei-ohtani",
+    "season": 2025,
+    "team": "LAD",
+    "G": 158,
+    "HR": 55,
+    "RBI": 102,
+    "SB": 20,
+    "AVG": 0.282,
+    "OBP": 0.392,
+    "SLG": 0.622,
+    "OPS": 1.014,
+    "source": "https://baseballsavant.mlb.com/savant-player/shohei-ohtani-660271"
+  }
+]

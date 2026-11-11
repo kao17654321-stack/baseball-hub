@@ -1,0 +1,303 @@
+[
+  {
+    "id": "NYY",
+    "name": "紐約洋基",
+    "englishName": "New York Yankees",
+    "league": "AL",
+    "division": "東區",
+    "officialUrl": "https://www.mlb.com/yankees",
+    "prospectsUrl": "https://www.baseballamerica.com/stories/2026-new-york-yankees-top-30-prospects-july-update/",
+    "mlbTeamId": 147,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/147.svg"
+  },
+  {
+    "id": "BOS",
+    "name": "波士頓紅襪",
+    "englishName": "Boston Red Sox",
+    "league": "AL",
+    "division": "東區",
+    "officialUrl": null,
+    "mlbTeamId": 111,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/111.svg"
+  },
+  {
+    "id": "TOR",
+    "name": "多倫多藍鳥",
+    "englishName": "Toronto Blue Jays",
+    "league": "AL",
+    "division": "東區",
+    "officialUrl": null,
+    "mlbTeamId": 141,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/141.svg"
+  },
+  {
+    "id": "BAL",
+    "name": "巴爾的摩金鶯",
+    "englishName": "Baltimore Orioles",
+    "league": "AL",
+    "division": "東區",
+    "officialUrl": null,
+    "mlbTeamId": 110,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/110.svg"
+  },
+  {
+    "id": "TB",
+    "name": "坦帕灣光芒",
+    "englishName": "Tampa Bay Rays",
+    "league": "AL",
+    "division": "東區",
+    "officialUrl": null,
+    "mlbTeamId": 139,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/139.svg"
+  },
+  {
+    "id": "CLE",
+    "name": "克里夫蘭守護者",
+    "englishName": "Cleveland Guardians",
+    "league": "AL",
+    "division": "中區",
+    "officialUrl": null,
+    "mlbTeamId": 114,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/114.svg"
+  },
+  {
+    "id": "DET",
+    "name": "底特律老虎",
+    "englishName": "Detroit Tigers",
+    "league": "AL",
+    "division": "中區",
+    "officialUrl": null,
+    "mlbTeamId": 116,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/116.svg"
+  },
+  {
+    "id": "KC",
+    "name": "堪薩斯市皇家",
+    "englishName": "Kansas City Royals",
+    "league": "AL",
+    "division": "中區",
+    "officialUrl": null,
+    "mlbTeamId": 118,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/118.svg"
+  },
+  {
+    "id": "MIN",
+    "name": "明尼蘇達雙城",
+    "englishName": "Minnesota Twins",
+    "league": "AL",
+    "division": "中區",
+    "officialUrl": null,
+    "mlbTeamId": 142,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/142.svg"
+  },
+  {
+    "id": "CWS",
+    "name": "芝加哥白襪",
+    "englishName": "Chicago White Sox",
+    "league": "AL",
+    "division": "中區",
+    "officialUrl": null,
+    "mlbTeamId": 145,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/145.svg"
+  },
+  {
+    "id": "HOU",
+    "name": "休士頓太空人",
+    "englishName": "Houston Astros",
+    "league": "AL",
+    "division": "西區",
+    "officialUrl": null,
+    "mlbTeamId": 117,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/117.svg"
+  },
+  {
+    "id": "SEA",
+    "name": "西雅圖水手",
+    "englishName": "Seattle Mariners",
+    "league": "AL",
+    "division": "西區",
+    "officialUrl": null,
+    "mlbTeamId": 136,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/136.svg"
+  },
+  {
+    "id": "TEX",
+    "name": "德州遊騎兵",
+    "englishName": "Texas Rangers",
+    "league": "AL",
+    "division": "西區",
+    "officialUrl": null,
+    "mlbTeamId": 140,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/140.svg"
+  },
+  {
+    "id": "LAA",
+    "name": "洛杉磯天使",
+    "englishName": "Los Angeles Angels",
+    "league": "AL",
+    "division": "西區",
+    "officialUrl": null,
+    "mlbTeamId": 108,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/108.svg"
+  },
+  {
+    "id": "ATH",
+    "name": "運動家",
+    "englishName": "Athletics",
+    "league": "AL",
+    "division": "西區",
+    "officialUrl": null,
+    "mlbTeamId": 133,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/133.svg"
+  },
+  {
+    "id": "LAD",
+    "name": "洛杉磯道奇",
+    "englishName": "Los Angeles Dodgers",
+    "league": "NL",
+    "division": "西區",
+    "officialUrl": "https://www.mlb.com/dodgers",
+    "mlbTeamId": 119,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/119.svg"
+  },
+  {
+    "id": "SD",
+    "name": "聖地牙哥教士",
+    "englishName": "San Diego Padres",
+    "league": "NL",
+    "division": "西區",
+    "officialUrl": null,
+    "mlbTeamId": 135,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/135.svg"
+  },
+  {
+    "id": "SF",
+    "name": "舊金山巨人",
+    "englishName": "San Francisco Giants",
+    "league": "NL",
+    "division": "西區",
+    "officialUrl": null,
+    "mlbTeamId": 137,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/137.svg"
+  },
+  {
+    "id": "ARI",
+    "name": "亞利桑那響尾蛇",
+    "englishName": "Arizona Diamondbacks",
+    "league": "NL",
+    "division": "西區",
+    "officialUrl": null,
+    "mlbTeamId": 109,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/109.svg"
+  },
+  {
+    "id": "COL",
+    "name": "科羅拉多洛磯",
+    "englishName": "Colorado Rockies",
+    "league": "NL",
+    "division": "西區",
+    "officialUrl": null,
+    "mlbTeamId": 115,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/115.svg"
+  },
+  {
+    "id": "CHC",
+    "name": "芝加哥小熊",
+    "englishName": "Chicago Cubs",
+    "league": "NL",
+    "division": "中區",
+    "officialUrl": null,
+    "mlbTeamId": 112,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/112.svg"
+  },
+  {
+    "id": "MIL",
+    "name": "密爾瓦基釀酒人",
+    "englishName": "Milwaukee Brewers",
+    "league": "NL",
+    "division": "中區",
+    "officialUrl": null,
+    "mlbTeamId": 158,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/158.svg"
+  },
+  {
+    "id": "STL",
+    "name": "聖路易紅雀",
+    "englishName": "St. Louis Cardinals",
+    "league": "NL",
+    "division": "中區",
+    "officialUrl": null,
+    "mlbTeamId": 138,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/138.svg"
+  },
+  {
+    "id": "PIT",
+    "name": "匹茲堡海盜",
+    "englishName": "Pittsburgh Pirates",
+    "league": "NL",
+    "division": "中區",
+    "officialUrl": null,
+    "mlbTeamId": 134,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/134.svg"
+  },
+  {
+    "id": "CIN",
+    "name": "辛辛那提紅人",
+    "englishName": "Cincinnati Reds",
+    "league": "NL",
+    "division": "中區",
+    "officialUrl": null,
+    "mlbTeamId": 113,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/113.svg"
+  },
+  {
+    "id": "NYM",
+    "name": "紐約大都會",
+    "englishName": "New York Mets",
+    "league": "NL",
+    "division": "東區",
+    "officialUrl": null,
+    "mlbTeamId": 121,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/121.svg"
+  },
+  {
+    "id": "PHI",
+    "name": "費城費城人",
+    "englishName": "Philadelphia Phillies",
+    "league": "NL",
+    "division": "東區",
+    "officialUrl": null,
+    "mlbTeamId": 143,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/143.svg"
+  },
+  {
+    "id": "ATL",
+    "name": "亞特蘭大勇士",
+    "englishName": "Atlanta Braves",
+    "league": "NL",
+    "division": "東區",
+    "officialUrl": null,
+    "mlbTeamId": 144,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/144.svg"
+  },
+  {
+    "id": "MIA",
+    "name": "邁阿密馬林魚",
+    "englishName": "Miami Marlins",
+    "league": "NL",
+    "division": "東區",
+    "officialUrl": null,
+    "mlbTeamId": 146,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/146.svg"
+  },
+  {
+    "id": "WSH",
+    "name": "華盛頓國民",
+    "englishName": "Washington Nationals",
+    "league": "NL",
+    "division": "東區",
+    "officialUrl": null,
+    "mlbTeamId": 120,
+    "logoUrl": "https://www.mlbstatic.com/team-logos/120.svg"
+  }
+]

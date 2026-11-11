@@ -1,0 +1,338 @@
+[
+  {
+    "id": "2023-mvp-al",
+    "season": 2023,
+    "category": "MVP",
+    "league": "AL",
+    "winner": "大谷翔平",
+    "englishName": "Shohei Ohtani",
+    "team": "LAA",
+    "source": "https://www.mlb.com/awards/2023"
+  },
+  {
+    "id": "2023-mvp-nl",
+    "season": 2023,
+    "category": "MVP",
+    "league": "NL",
+    "winner": "小羅納德・阿庫尼亞",
+    "englishName": "Ronald Acuña Jr.",
+    "team": "ATL",
+    "source": "https://www.mlb.com/awards/2023"
+  },
+  {
+    "id": "2023-cy-al",
+    "season": 2023,
+    "category": "CY",
+    "league": "AL",
+    "winner": "格里特・柯爾",
+    "englishName": "Gerrit Cole",
+    "team": "NYY",
+    "source": "https://www.mlb.com/awards/2023"
+  },
+  {
+    "id": "2023-cy-nl",
+    "season": 2023,
+    "category": "CY",
+    "league": "NL",
+    "winner": "布雷克・史奈爾",
+    "englishName": "Blake Snell",
+    "team": "SD",
+    "source": "https://www.mlb.com/awards/2023"
+  },
+  {
+    "id": "2023-roy-al",
+    "season": 2023,
+    "category": "ROY",
+    "league": "AL",
+    "winner": "岡納・韓德森",
+    "englishName": "Gunnar Henderson",
+    "team": "BAL",
+    "source": "https://www.mlb.com/awards/2023"
+  },
+  {
+    "id": "2023-roy-nl",
+    "season": 2023,
+    "category": "ROY",
+    "league": "NL",
+    "winner": "柯賓・卡洛爾",
+    "englishName": "Corbin Carroll",
+    "team": "ARI",
+    "source": "https://www.mlb.com/awards/2023"
+  },
+  {
+    "id": "2023-moy-al",
+    "season": 2023,
+    "category": "MOY",
+    "league": "AL",
+    "winner": "布蘭登・海德",
+    "englishName": "Brandon Hyde",
+    "team": "BAL",
+    "source": "https://www.mlb.com/awards/2023"
+  },
+  {
+    "id": "2023-moy-nl",
+    "season": 2023,
+    "category": "MOY",
+    "league": "NL",
+    "winner": "斯基普・舒馬克",
+    "englishName": "Skip Schumaker",
+    "team": "MIA",
+    "source": "https://www.mlb.com/awards/2023"
+  },
+  {
+    "id": "2024-mvp-al",
+    "season": 2024,
+    "category": "MVP",
+    "league": "AL",
+    "winner": "亞倫・賈吉",
+    "englishName": "Aaron Judge",
+    "team": "NYY",
+    "source": "https://www.mlb.com/awards/2024"
+  },
+  {
+    "id": "2024-mvp-nl",
+    "season": 2024,
+    "category": "MVP",
+    "league": "NL",
+    "winner": "大谷翔平",
+    "englishName": "Shohei Ohtani",
+    "team": "LAD",
+    "source": "https://www.mlb.com/awards/2024"
+  },
+  {
+    "id": "2024-cy-al",
+    "season": 2024,
+    "category": "CY",
+    "league": "AL",
+    "winner": "塔里克・史庫柏",
+    "englishName": "Tarik Skubal",
+    "team": "DET",
+    "source": "https://www.mlb.com/awards/2024"
+  },
+  {
+    "id": "2024-cy-nl",
+    "season": 2024,
+    "category": "CY",
+    "league": "NL",
+    "winner": "克里斯・塞爾",
+    "englishName": "Chris Sale",
+    "team": "ATL",
+    "source": "https://www.mlb.com/awards/2024"
+  },
+  {
+    "id": "2024-roy-al",
+    "season": 2024,
+    "category": "ROY",
+    "league": "AL",
+    "winner": "路易斯・希爾",
+    "englishName": "Luis Gil",
+    "team": "NYY",
+    "source": "https://www.mlb.com/awards/2024"
+  },
+  {
+    "id": "2024-roy-nl",
+    "season": 2024,
+    "category": "ROY",
+    "league": "NL",
+    "winner": "保羅・史金斯",
+    "englishName": "Paul Skenes",
+    "team": "PIT",
+    "source": "https://www.mlb.com/awards/2024"
+  },
+  {
+    "id": "2024-moy-al",
+    "season": 2024,
+    "category": "MOY",
+    "league": "AL",
+    "winner": "史蒂芬・沃特",
+    "englishName": "Stephen Vogt",
+    "team": "CLE",
+    "source": "https://www.mlb.com/awards/2024"
+  },
+  {
+    "id": "2024-moy-nl",
+    "season": 2024,
+    "category": "MOY",
+    "league": "NL",
+    "winner": "派特・墨菲",
+    "englishName": "Pat Murphy",
+    "team": "MIL",
+    "source": "https://www.mlb.com/awards/2024"
+  },
+  {
+    "id": "2025-mvp-al",
+    "season": 2025,
+    "category": "MVP",
+    "league": "AL",
+    "winner": "亞倫・賈吉",
+    "englishName": "Aaron Judge",
+    "team": "NYY",
+    "source": "https://www.mlb.com/awards/2025"
+  },
+  {
+    "id": "2025-mvp-nl",
+    "season": 2025,
+    "category": "MVP",
+    "league": "NL",
+    "winner": "大谷翔平",
+    "englishName": "Shohei Ohtani",
+    "team": "LAD",
+    "source": "https://www.mlb.com/awards/2025"
+  },
+  {
+    "id": "2025-cy-al",
+    "season": 2025,
+    "category": "CY",
+    "league": "AL",
+    "winner": "塔里克・史庫柏",
+    "englishName": "Tarik Skubal",
+    "team": "DET",
+    "source": "https://www.mlb.com/awards/2025"
+  },
+  {
+    "id": "2025-cy-nl",
+    "season": 2025,
+    "category": "CY",
+    "league": "NL",
+    "winner": "保羅・史金斯",
+    "englishName": "Paul Skenes",
+    "team": "PIT",
+    "source": "https://www.mlb.com/awards/2025"
+  },
+  {
+    "id": "2025-roy-al",
+    "season": 2025,
+    "category": "ROY",
+    "league": "AL",
+    "winner": "尼克・柯茲",
+    "englishName": "Nick Kurtz",
+    "team": "ATH",
+    "source": "https://www.mlb.com/awards/2025"
+  },
+  {
+    "id": "2025-roy-nl",
+    "season": 2025,
+    "category": "ROY",
+    "league": "NL",
+    "winner": "德瑞克・鮑德溫",
+    "englishName": "Drake Baldwin",
+    "team": "ATL",
+    "source": "https://www.mlb.com/awards/2025"
+  },
+  {
+    "id": "2025-moy-al",
+    "season": 2025,
+    "category": "MOY",
+    "league": "AL",
+    "winner": "史蒂芬・沃特",
+    "englishName": "Stephen Vogt",
+    "team": "CLE",
+    "source": "https://www.mlb.com/awards/2025"
+  },
+  {
+    "id": "2025-moy-nl",
+    "season": 2025,
+    "category": "MOY",
+    "league": "NL",
+    "winner": "派特・墨菲",
+    "englishName": "Pat Murphy",
+    "team": "MIL",
+    "source": "https://www.mlb.com/awards/2025"
+  },
+  {
+    "id": "2026-roy-al",
+    "season": 2026,
+    "category": "ROY",
+    "league": "AL",
+    "status": "announced",
+    "announcedAt": "2026-11-10",
+    "winner": "凱文・麥戈尼格爾",
+    "englishName": "Kevin McGonigle",
+    "team": "DET",
+    "source": "https://www.mlb.com/news/2026-mlb-rookie-of-the-year-award-winners"
+  },
+  {
+    "id": "2026-roy-nl",
+    "season": 2026,
+    "category": "ROY",
+    "league": "NL",
+    "status": "announced",
+    "announcedAt": "2026-11-10",
+    "winner": "薩爾・史都華",
+    "englishName": "Sal Stewart",
+    "team": "CIN",
+    "source": "https://www.mlb.com/news/2026-mlb-rookie-of-the-year-award-winners"
+  },
+  {
+    "id": "2026-moy-al",
+    "season": 2026,
+    "category": "MOY",
+    "league": "AL",
+    "status": "announced",
+    "announcedAt": "2026-11-11",
+    "winner": "威爾・維納布爾",
+    "englishName": "Will Venable",
+    "team": "CWS",
+    "source": "https://www.mlb.com/news/will-venable-wins-al-manager-of-year-award-2026"
+  },
+  {
+    "id": "2026-moy-nl",
+    "season": 2026,
+    "category": "MOY",
+    "league": "NL",
+    "status": "announced",
+    "announcedAt": "2026-11-11",
+    "winner": "派特・墨菲",
+    "englishName": "Pat Murphy",
+    "team": "MIL",
+    "source": "https://www.mlb.com/news/pat-murphy-wins-third-straight-nl-manager-of-the-year-award"
+  },
+  {
+    "id": "2026-cy-al",
+    "season": 2026,
+    "category": "CY",
+    "league": "AL",
+    "status": "pending",
+    "announcedAt": "2026-11-12",
+    "winner": null,
+    "englishName": null,
+    "team": null,
+    "source": "https://bbwaa.com/2026-award-winners-to-be-announced-on-mlb-network/"
+  },
+  {
+    "id": "2026-cy-nl",
+    "season": 2026,
+    "category": "CY",
+    "league": "NL",
+    "status": "pending",
+    "announcedAt": "2026-11-12",
+    "winner": null,
+    "englishName": null,
+    "team": null,
+    "source": "https://bbwaa.com/2026-award-winners-to-be-announced-on-mlb-network/"
+  },
+  {
+    "id": "2026-mvp-al",
+    "season": 2026,
+    "category": "MVP",
+    "league": "AL",
+    "status": "pending",
+    "announcedAt": "2026-11-13",
+    "winner": null,
+    "englishName": null,
+    "team": null,
+    "source": "https://bbwaa.com/2026-award-winners-to-be-announced-on-mlb-network/"
+  },
+  {
+    "id": "2026-mvp-nl",
+    "season": 2026,
+    "category": "MVP",
+    "league": "NL",
+    "status": "pending",
+    "announcedAt": "2026-11-13",
+    "winner": null,
+    "englishName": null,
+    "team": null,
+    "source": "https://bbwaa.com/2026-award-winners-to-be-announced-on-mlb-network/"
+  }
+]

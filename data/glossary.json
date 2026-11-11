@@ -1,0 +1,68 @@
+[
+  {
+    "id": "avg",
+    "term": "AVG",
+    "name": "打擊率",
+    "description": "安打數 ÷ 打數；數值越高通常代表擊出安打的比例越高。"
+  },
+  {
+    "id": "obp",
+    "term": "OBP",
+    "name": "上壘率",
+    "description": "衡量打者靠安打、保送及觸身球上壘的能力。"
+  },
+  {
+    "id": "slg",
+    "term": "SLG",
+    "name": "長打率",
+    "description": "以壘打數除以打數，重視長打產出。"
+  },
+  {
+    "id": "ops",
+    "term": "OPS",
+    "name": "上壘加長打率",
+    "description": "OBP + SLG，簡單綜合上壘與長打能力。"
+  },
+  {
+    "id": "opsplus",
+    "term": "OPS+",
+    "name": "校正 OPS",
+    "description": "以聯盟與球場因素校正；100 約為聯盟平均，不同來源可能有細節差異。"
+  },
+  {
+    "id": "wrcplus",
+    "term": "wRC+",
+    "name": "校正得分創造指標",
+    "description": "FanGraphs 常用打擊指標，100 約為聯盟平均。"
+  },
+  {
+    "id": "war",
+    "term": "WAR",
+    "name": "勝場貢獻值",
+    "description": "估計球員相較替代水準的總貢獻；不同機構計算方法不同。"
+  },
+  {
+    "id": "era",
+    "term": "ERA",
+    "name": "防禦率",
+    "description": "每九局自責失分數，通常越低越好。"
+  },
+  {
+    "id": "whip",
+    "term": "WHIP",
+    "name": "每局被上壘人數",
+    "description": "(被安打 + 四壞保送) ÷ 投球局數。"
+  },
+  {
+    "id": "fip",
+    "term": "FIP",
+    "name": "獨立防禦率",
+    "description": "主要依全壘打、三振、保送等事件估計投手失分水準。"
+  },
+  {
+    "id": "k-9",
+    "term": "K/9",
+    "name": "每九局三振",
+    "description": "奪三振數 ÷ 投球局數 × 9。"
+  }
+]

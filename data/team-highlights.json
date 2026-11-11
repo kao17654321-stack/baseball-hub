@@ -1,0 +1,18 @@
+[
+  {
+    "team": "NYY",
+    "season": 2025,
+    "hitterId": "aaron-judge",
+    "pitcherId": null,
+    "reason": "打者示範選擇；王牌先發投手尚未依該季數據評選。",
+    "verified": false
+  },
+  {
+    "team": "LAD",
+    "season": 2025,
+    "hitterId": "shohei-ohtani",
+    "pitcherId": null,
+    "reason": "打者示範選擇；王牌先發投手尚未依該季數據評選。",
+    "verified": false
+  }
+]

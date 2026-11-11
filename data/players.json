@@ -1,0 +1,123 @@
+[
+  {
+    "id": "aaron-judge",
+    "name": "亞倫・賈吉",
+    "englishName": "Aaron Judge",
+    "team": "NYY",
+    "position": "OF",
+    "number": "99",
+    "tags": [
+      "長打",
+      "選球"
+    ],
+    "summary": "洋基代表性強打者，以長打能力與選球紀律聞名。透過他的成績，可以觀察上壘率、長打率與 OPS 的差異。",
+    "highlights": [
+      "高長打產出",
+      "優秀的選球能力"
+    ],
+    "accent": "gold",
+    "links": {
+      "mlb": "https://www.mlb.com/player/aaron-judge-592450",
+      "savant": "https://baseballsavant.mlb.com/savant-player/aaron-judge-592450",
+      "fangraphs": "https://www.fangraphs.com/players/aaron-judge/15640/stats?position=OF"
+    },
+    "mlbId": 592450,
+    "photoUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_426,q_auto:best/v1/people/592450/headshot/67/current.png",
+    "contract": {
+      "status": "guaranteed",
+      "throughSeason": 2031,
+      "asOf": "2026-11-11",
+      "source": "https://www.baseball-reference.com/teams/NYY/new-york-yankees-salaries-and-contracts.shtml",
+      "note": "9 年合約（2023–2031）"
+    }
+  },
+  {
+    "id": "shohei-ohtani",
+    "name": "大谷翔平",
+    "englishName": "Shohei Ohtani",
+    "team": "LAD",
+    "position": "P / DH",
+    "number": "17",
+    "tags": [
+      "二刀流",
+      "指定打擊"
+    ],
+    "summary": "兼具打擊與投球能力的二刀流球員。切換不同年度時，請注意投球與打擊紀錄可能並非每一季都有。",
+    "highlights": [
+      "打者與投手雙重角色",
+      "長打與跑壘能力"
+    ],
+    "accent": "blue",
+    "links": {
+      "mlb": "https://www.mlb.com/player/shohei-ohtani-660271",
+      "savant": "https://baseballsavant.mlb.com/savant-player/shohei-ohtani-660271"
+    },
+    "mlbId": 660271,
+    "photoUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_426,q_auto:best/v1/people/660271/headshot/67/current.png",
+    "contract": {
+      "status": "guaranteed",
+      "throughSeason": 2033,
+      "asOf": "2026-11-11",
+      "source": "https://www.truebluela.com/dodgers-roster/124780/dodgers-roster-breakdown-2026-offseason",
+      "note": "10 年合約（2024–2033）；薪資有遞延支付"
+    }
+  },
+  {
+    "id": "gerrit-cole",
+    "name": "格里特・柯爾",
+    "englishName": "Gerrit Cole",
+    "team": "NYY",
+    "position": "P",
+    "number": "45",
+    "tags": [
+      "先發投手"
+    ],
+    "summary": "具有豐富先發經驗的投手。本示範頁先提供人物介紹，完整逐季數據與代表球員評選將在核實後補充。",
+    "highlights": [
+      "先發輪值代表人物",
+      "可以觀察三振與保送控制"
+    ],
+    "accent": "red",
+    "links": {
+      "mlb": "https://www.mlb.com/player/gerrit-cole-543037"
+    },
+    "mlbId": 543037,
+    "photoUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_426,q_auto:best/v1/people/543037/headshot/67/current.png",
+    "contract": {
+      "status": "guaranteed",
+      "throughSeason": 2028,
+      "asOf": "2026-11-11",
+      "source": "https://www.baseball-reference.com/players/c/colege01.shtml",
+      "note": "9 年合約（2020–2028）"
+    }
+  },
+  {
+    "id": "yoshinobu-yamamoto",
+    "name": "山本由伸",
+    "englishName": "Yoshinobu Yamamoto",
+    "team": "LAD",
+    "position": "P",
+    "number": "18",
+    "tags": [
+      "先發投手"
+    ],
+    "summary": "來自日本的先發投手，以球種搭配與控球見長。完整逐季投球數據仍待核實與補充。",
+    "highlights": [
+      "多樣球種搭配",
+      "先發投手"
+    ],
+    "accent": "blue",
+    "links": {
+      "mlb": "https://www.mlb.com/player/yoshinobu-yamamoto-808967"
+    },
+    "mlbId": 808967,
+    "photoUrl": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_426,q_auto:best/v1/people/808967/headshot/67/current.png",
+    "contract": {
+      "status": "guaranteed",
+      "throughSeason": 2035,
+      "asOf": "2026-11-11",
+      "source": "https://www.truebluela.com/dodgers-roster/124780/dodgers-roster-breakdown-2026-offseason",
+      "note": "12 年合約（2024–2035）；合約含特殊條款，年限不保證完整履行"
+    }
+  }
+]
